@@ -1,12 +1,12 @@
-Hi 👋 My name is Justin Toler
+My name is Justin Toler
 =============================
 
 Web Developer and Designer
 --------------------------
 
 * 🌍  I'm based in Charlotte
-* 🖥️  See my portfolio at [MyPortfolio](http://jwtoler.dev)
-* 🚀  I'm currently working on [MyPortfolio](http://jwtoler.dev)
+* 🖥️  See my portfolio at [MyPortfolio](https://jwtoler.dev)
+* 🚀  I'm currently working on [MyPortfolio](https://jwtoler.dev)
 
 ### Skills
 
